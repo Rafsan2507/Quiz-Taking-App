@@ -1,0 +1,96 @@
+{
+  "quizData": [
+    {
+      "id": "3a33",
+      "title": "Rafsan",
+      "duration": 10,
+      "mcqQuestions": [
+        {
+          "question": "SERES",
+          "options": [
+            "ASDA",
+            "ASDo8",
+            "ASDyutt",
+            "ASDkhj"
+          ],
+          "answer": "ASDA"
+        },
+        {
+          "question": "ADS",
+          "options": [
+            "ASD",
+            "ADSrtw",
+            "ASDcb",
+            "ASDcnj"
+          ],
+          "answer": "ASD"
+        }
+      ],
+      "trueFalseQuestions": [
+        {
+          "question": "AD",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True"
+        }
+      ]
+    },
+    {
+      "id": "d7ef",
+      "title": "Swimming",
+      "duration": 5,
+      "mcqQuestions": [
+        {
+          "question": "How long can you swim?",
+          "options": [
+            "1 hour",
+            "2 hour",
+            "3 hour",
+            "4 hour"
+          ],
+          "answer": "2 hour"
+        },
+        {
+          "question": "What is the standard length of an Olympic-sized swimming pool?",
+          "options": [
+            "25 meters",
+            "50 meters",
+            "75 meters",
+            "100 meters"
+          ],
+          "answer": "50 meters"
+        }
+      ],
+      "trueFalseQuestions": [
+        {
+          "question": "Swimming is good for health",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "True"
+        }
+      ]
+    }
+  ],
+  "activatedQuiz": [
+    {
+      "id": "791e",
+      "activate": true,
+      "quizId": "d7ef"
+    },
+    {
+      "id": "9106",
+      "activate": false,
+      "quizId": "d7ef"
+    },
+    {
+      "id": "c201",
+      "activate": true,
+      "quizId": "3a33"
+    }
+  ],
+  "quizAnswer": []
+}
